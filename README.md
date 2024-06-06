@@ -1,4 +1,4 @@
-<h1 align="left">Senior  Full Stack Web Developer</h1>
+<h1 align="left">Full Stack BlockChain Developer</h1>
 
 ###
 
@@ -6,14 +6,23 @@
 
 ###
 
-<p align="left">As a seasoned full-stack web developer, I bring a rich tapestry of programming languages and frameworks to the table. My expertise in React, Vue, and Angular has enabled me to craft dynamic and responsive user interfaces that are not only functional but also aesthetically pleasing. On the server side, my proficiency with Node.js and Spring Boot ensures that the backend is robust and scalable.<br><br>My approach is holistic; I believe in creating seamless experiences that bridge the gap between users and technology. With a keen eye for design and a creative mindset, I am always exploring new ways to integrate animations and visual effects that enhance user engagement without compromising performance.<br><br>Whether it’s a startup looking to disrupt the market or an established enterprise aiming to upgrade their digital presence, I am equipped to deliver cutting-edge solutions that resonate with the target audience. Let’s build something remarkable together.<br><br>Feel free to customize this description to better fit your personal style or the specific needs of your client. If you need further assistance or more detailed content, just let me know!</p>
+<p align="left">As a seasoned full-stack Blockchain developer, I bring a rich tapestry of programming languages and frameworks to the table. My expertise in React, Vue, and Angular has enabled me to craft dynamic and responsive user interfaces that are not only functional but also aesthetically pleasing. On the server side, my proficiency with Node.js ensures that the backend is robust and scalable.<br> I also proficient in Smart Contract Languages like Solidity and Rust and it's frameworks like anchor and move. I eager to learn cutting-edge Blockchain technology and I wish to contribute something to peaple with Blockchain technology <br>My approach is holistic; I believe in creating seamless experiences that bridge the gap between users and technology. With a keen eye for design and a creative mindset, I am always exploring new ways to integrate wonderful tech that enhance user engagement without compromising performance.<br><br>Whether it’s a startup looking to disrupt the market or an established enterprise aiming to upgrade their digital presence, I am equipped to deliver cutting-edge solutions that resonate with the target audience. Let’s build something remarkable together.<br><br>Feel free to customize this description to better fit your personal style or the specific needs of your client. If you need further assistance or more detailed content, just let me know!</p>
 
 ###
 
 <h2 align="left">Programming Language</h2>
 
 ###
-
+<div align="left">
+  <h3>Smart Contract Language:</h3>
+  <h4>Solidity</h4>
+  <h4>Rust</h4>
+</div>
+<div align="left">
+  <h3>Framworks:</h3>
+  <h4>Anchor</h4>
+  <h4>Move</h4>
+</div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
